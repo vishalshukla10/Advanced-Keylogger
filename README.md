@@ -6,6 +6,8 @@ Install dependencies (if not already):
     pip3 install pynput
     Run the script:
 
+Run the script:
+    
     python3 keylogger.py
 
 
