@@ -1,9 +1,13 @@
 # Advanced-Keylogger
 
 Features:
+
 Logs keystrokes with timestamps
+
 Captures special keys (like Enter, Backspace, etc.)
+
 Logs active window titles so you know where the keys were typed
+
 Saves to a hidden file
 
 
