@@ -6,9 +6,9 @@ Install dependencies (if not already):
     pip3 install pynput
     Run the script:
 
-    
-  python3 keylogger.py
+    python3 keylogger.py
 
 
 Check log:
-cat ~/.keylog.txt
+
+    cat ~/.keylog.txt
